@@ -23,4 +23,3 @@ foreach(['chiken','lemon','bread','water'] as $ing){
 	}
 	
 }
-echo 5;
